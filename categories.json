@@ -1,16 +1,16 @@
 {
   "categories": [
     {
-      "name": "Путешествия",
-      "filename": "travel.json"
-    },
-    {
       "name": "Ресторан",
       "filename": "restaurant.json"
     },
     {
       "name": "Экстренные ситуации",
       "filename": "emergency.json"
+    },
+    {
+      "name": "Путешествия",
+      "filename": "travel.json"
     }
   ]
 }
