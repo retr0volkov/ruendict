@@ -1,0 +1,50 @@
+{
+  "category": "Ресторан",
+  "phrases": [
+    {
+      "russian": "Можно мне меню, пожалуйста?",
+      "english": "Can I have a menu, please?",
+      "usage": "Используйте эту фразу, чтобы попросить меню у официанта.",
+      "examples": [
+        "Excuse me, can I have a menu, please?",
+        "Could you bring us the menu, please?"
+      ]
+    },
+    {
+      "russian": "Я хотел бы заказать...",
+      "english": "I would like to order...",
+      "usage": "Начало фразы для заказа блюд. После многоточия укажите название блюда.",
+      "examples": [
+        "I would like to order the salmon with vegetables.",
+        "We would like to order two soups and a salad."
+      ]
+    },
+    {
+      "russian": "Принесите счет, пожалуйста.",
+      "english": "Could we have the bill, please?",
+      "usage": "Вежливая просьба принести счет после окончания трапезы.",
+      "examples": [
+        "Excuse me, could we have the bill when you have a moment?",
+        "Check, please!"
+      ]
+    },
+    {
+      "russian": "Это блюдо содержит орехи?",
+      "english": "Does this dish contain nuts?",
+      "usage": "Важно спрашивать при аллергии на определенные продукты.",
+      "examples": [
+        "I'm allergic to peanuts. Does this dish contain any nuts?",
+        "Could you tell me if this dessert has nuts in it?"
+      ]
+    },
+    {
+      "russian": "Можно поменять этот гарнир?",
+      "english": "Can I substitute this side dish?",
+      "usage": "Просьба заменить один гарнир на другой.",
+      "examples": [
+        "Can I substitute the fries for a salad?",
+        "Would it be possible to change the mashed potatoes for vegetables?"
+      ]
+    }
+  ]
+}
