@@ -1,0 +1,23 @@
+{
+  "category": "Путешествия",
+  "phrases": [
+    {
+      "russian": "Где находится ближайшая станция метро?",
+      "english": "Where is the nearest subway station?",
+      "usage": "Используется, когда вам нужно найти метро. Можно добавить 'please' в начало для вежливости.",
+      "examples": [
+        "Excuse me, where is the nearest subway station?",
+        "Could you tell me where the nearest subway station is, please?"
+      ]
+    },
+    {
+      "russian": "Сколько стоит билет до центра?",
+      "english": "How much is a ticket to the city center?",
+      "usage": "Спрашиваем цену билета на общественный транспорт.",
+      "examples": [
+        "How much is a ticket to the city center?",
+        "What's the fare to the downtown area?"
+      ]
+    }
+  ]
+}
