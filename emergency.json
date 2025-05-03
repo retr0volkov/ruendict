@@ -1,0 +1,59 @@
+{
+  "category": "Экстренные ситуации",
+  "phrases": [
+    {
+      "russian": "Помогите!",
+      "english": "Help!",
+      "usage": "Кричать в случае опасности или когда срочно нужна помощь.",
+      "examples": [
+        "Help! Someone call an ambulance!",
+        "Help! I've been robbed!"
+      ]
+    },
+    {
+      "russian": "Вызовите скорую!",
+      "english": "Call an ambulance!",
+      "usage": "Когда требуется срочная медицинская помощь.",
+      "examples": [
+        "Please call an ambulance immediately!",
+        "Quick, call an ambulance - he's having a heart attack!"
+      ]
+    },
+    {
+      "russian": "Где ближайшая больница?",
+      "english": "Where is the nearest hospital?",
+      "usage": "Когда нужно срочно найти медицинское учреждение.",
+      "examples": [
+        "Excuse me, where is the nearest hospital? It's an emergency!",
+        "Can you direct me to the closest hospital?"
+      ]
+    },
+    {
+      "russian": "Я потерял паспорт.",
+      "english": "I've lost my passport.",
+      "usage": "Сообщение о потере документа в полиции или консульстве.",
+      "examples": [
+        "I need to report that I've lost my passport.",
+        "What should I do if I've lost my passport?"
+      ]
+    },
+    {
+      "russian": "Мне нужен переводчик.",
+      "english": "I need an interpreter.",
+      "usage": "Когда требуется помощь в переводе при общении с официальными лицами.",
+      "examples": [
+        "I don't understand. I need an interpreter who speaks Russian.",
+        "Could you please find me an interpreter?"
+      ]
+    },
+    {
+      "russian": "Где находится посольство России?",
+      "english": "Where is the Russian embassy?",
+      "usage": "Когда требуется помощь консульства или посольства.",
+      "examples": [
+        "I need to contact the Russian embassy. Where is it located?",
+        "Could you give me directions to the Russian embassy?"
+      ]
+    }
+  ]
+}
