@@ -4,6 +4,7 @@
     {
       "russian": "Где находится ближайшая станция метро?",
       "english": "Where is the nearest subway station?",
+      "transcription": "Вэр из зэ ниэрэст сабвэй стэйшн?",
       "usage": "Используется, когда вам нужно найти метро. Можно добавить 'please' в начало для вежливости.",
       "examples": [
         "Excuse me, where is the nearest subway station?",
@@ -13,6 +14,7 @@
     {
       "russian": "Сколько стоит билет до центра?",
       "english": "How much is a ticket to the city center?",
+      "transcription": "Хау мач из э тикет ту зэ сити сэнтэр?",
       "usage": "Спрашиваем цену билета на общественный транспорт.",
       "examples": [
         "How much is a ticket to the city center?",
