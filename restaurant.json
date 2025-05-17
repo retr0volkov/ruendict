@@ -4,6 +4,7 @@
     {
       "russian": "Можно мне меню, пожалуйста?",
       "english": "Can I have a menu, please?",
+      "transcription": "Кэн ай хэв э мэнью, плиз?",
       "usage": "Используйте эту фразу, чтобы попросить меню у официанта.",
       "examples": [
         "Excuse me, can I have a menu, please?",
@@ -13,6 +14,7 @@
     {
       "russian": "Я хотел бы заказать...",
       "english": "I would like to order...",
+      "transcription": "Ай вуд лайк ту ордэр...",
       "usage": "Начало фразы для заказа блюд. После многоточия укажите название блюда.",
       "examples": [
         "I would like to order the salmon with vegetables.",
@@ -22,6 +24,7 @@
     {
       "russian": "Принесите счет, пожалуйста.",
       "english": "Could we have the bill, please?",
+      "transcription": "Куд ви хэв зэ бил, плиз?",
       "usage": "Вежливая просьба принести счет после окончания трапезы.",
       "examples": [
         "Excuse me, could we have the bill when you have a moment?",
@@ -31,6 +34,7 @@
     {
       "russian": "Это блюдо содержит орехи?",
       "english": "Does this dish contain nuts?",
+      "transcription": "Датс дис диш контэйн натс?",
       "usage": "Важно спрашивать при аллергии на определенные продукты.",
       "examples": [
         "I'm allergic to peanuts. Does this dish contain any nuts?",
@@ -40,6 +44,7 @@
     {
       "russian": "Можно поменять этот гарнир?",
       "english": "Can I substitute this side dish?",
+      "transcription": "Кэн ай сабститьют дис сай диш?",
       "usage": "Просьба заменить один гарнир на другой.",
       "examples": [
         "Can I substitute the fries for a salad?",
