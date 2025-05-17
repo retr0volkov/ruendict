@@ -4,6 +4,7 @@
     {
       "russian": "Помогите!",
       "english": "Help!",
+      "transcription": "Хэлп!",
       "usage": "Кричать в случае опасности или когда срочно нужна помощь.",
       "examples": [
         "Help! Someone call an ambulance!",
@@ -13,6 +14,7 @@
     {
       "russian": "Вызовите скорую!",
       "english": "Call an ambulance!",
+      "transcription": "Кол эн эмбьюленс!",
       "usage": "Когда требуется срочная медицинская помощь.",
       "examples": [
         "Please call an ambulance immediately!",
@@ -22,6 +24,7 @@
     {
       "russian": "Где ближайшая больница?",
       "english": "Where is the nearest hospital?",
+      "transcription": "Вэр из зэ ниэрэст хоспитал?",
       "usage": "Когда нужно срочно найти медицинское учреждение.",
       "examples": [
         "Excuse me, where is the nearest hospital? It's an emergency!",
@@ -31,6 +34,7 @@
     {
       "russian": "Я потерял паспорт.",
       "english": "I've lost my passport.",
+      "transcription": "Айв лост май паспорт.",
       "usage": "Сообщение о потере документа в полиции или консульстве.",
       "examples": [
         "I need to report that I've lost my passport.",
@@ -40,6 +44,7 @@
     {
       "russian": "Мне нужен переводчик.",
       "english": "I need an interpreter.",
+      "transcription": "Ай нид эн интерпритэр.",
       "usage": "Когда требуется помощь в переводе при общении с официальными лицами.",
       "examples": [
         "I don't understand. I need an interpreter who speaks Russian.",
@@ -49,6 +54,7 @@
     {
       "russian": "Где находится посольство России?",
       "english": "Where is the Russian embassy?",
+      "transcription": "Вэр из зэ рашн эмбаси?",
       "usage": "Когда требуется помощь консульства или посольства.",
       "examples": [
         "I need to contact the Russian embassy. Where is it located?",
