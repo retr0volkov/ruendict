@@ -5,43 +5,61 @@
       "russian": "Где находится ближайшая станция метро?",
       "english": "Where is the nearest subway station?",
       "transcription": "Вэр из зэ ниэрэст сабвэй стэйшн?",
-      "usage": "Используется, когда вам нужно найти метро. Можно добавить 'please' в начало для вежливости."
+      "usage": "Поиск метро."
     },
     {
       "russian": "Сколько стоит билет до центра?",
       "english": "How much is a ticket to the city center?",
       "transcription": "Хау мач из э тикет ту зэ сити сэнтэр?",
-      "usage": "Спрашиваем цену билета на общественный транспорт."
+      "usage": "Вопрос о цене билета."
     },
     {
       "russian": "Где можно купить билеты?",
       "english": "Where can I buy tickets?",
       "transcription": "Вэр кэн ай бай тикетс?",
-      "usage": "Вопрос о месте покупки билетов на транспорт."
+      "usage": "Поиск места покупки билетов."
     },
     {
       "russian": "Этот автобус идет в центр?",
       "english": "Does this bus go to the city center?",
       "transcription": "Датс дис бас гоу ту зэ сити сэнтэр?",
-      "usage": "Уточнение маршрута автобуса."
+      "usage": "Уточнение маршрута."
     },
     {
-      "russian": "Где находится туристический информационный центр?",
+      "russian": "Где туристический информационный центр?",
       "english": "Where is the tourist information center?",
       "transcription": "Вэр из зэ туэрист инфэрмэйшн сэнтэр?",
-      "usage": "Поиск места, где можно получить туристическую информацию."
+      "usage": "Поиск туристической информации."
     },
     {
       "russian": "Какие достопримечательности стоит посетить?",
       "english": "What sights are worth visiting?",
       "transcription": "Ват сайтс ар вёрт визитинг?",
-      "usage": "Вопрос о рекомендуемых туристических местах."
+      "usage": "Вопрос о достопримечательностях."
     },
     {
       "russian": "Где можно взять карту города?",
       "english": "Where can I get a city map?",
       "transcription": "Вэр кэн ай гет э сити мэп?",
-      "usage": "Поиск места, где можно получить карту города."
+      "usage": "Поиск карты города."
+    },
+    {
+      "russian": "Сколько времени займет дорога?",
+      "english": "How long does it take to get there?",
+      "transcription": "Хау лонг даз ит тэйк ту гет зэр?",
+      "usage": "Вопрос о времени в пути."
+    },
+    {
+      "russian": "Где можно обменять валюту?",
+      "english": "Where can I exchange currency?",
+      "transcription": "Вэр кэн ай эксчэйндж кэрэнси?",
+      "usage": "Поиск обменного пункта."
+    },
+    {
+      "russian": "Где находится главная площадь?",
+      "english": "Where is the main square?",
+      "transcription": "Вэр из зэ мэйн сквэр?",
+      "usage": "Поиск центральной площади."
     }
   ]
 }
