@@ -1,0 +1,47 @@
+{
+  "category": "Транспорт",
+  "phrases": [
+    {
+      "russian": "Как добраться до...?",
+      "english": "How do I get to...?",
+      "transcription": "Хау ду ай гет ту...?",
+      "usage": "Вопрос о маршруте до определенного места."
+    },
+    {
+      "russian": "Сколько стоит проезд?",
+      "english": "How much is the fare?",
+      "transcription": "Хау мач из зэ фэар?",
+      "usage": "Вопрос о стоимости проезда в транспорте."
+    },
+    {
+      "russian": "Где остановка такси?",
+      "english": "Where is the taxi stand?",
+      "transcription": "Вэр из зэ такси стэнд?",
+      "usage": "Поиск места, где можно взять такси."
+    },
+    {
+      "russian": "Мне нужно в аэропорт.",
+      "english": "I need to go to the airport.",
+      "transcription": "Ай нид ту гоу ту зэ эапорт.",
+      "usage": "Сообщение водителю такси о пункте назначения."
+    },
+    {
+      "russian": "Это место свободно?",
+      "english": "Is this seat taken?",
+      "transcription": "Из дис сит тэйкн?",
+      "usage": "Вопрос о занятости места в транспорте."
+    },
+    {
+      "russian": "Когда отправляется следующий поезд?",
+      "english": "When does the next train leave?",
+      "transcription": "Вэн даз зэ некст трэйн лив?",
+      "usage": "Уточнение расписания поездов."
+    },
+    {
+      "russian": "Где выход?",
+      "english": "Where is the exit?",
+      "transcription": "Вэр из зэ экзит?",
+      "usage": "Поиск выхода из транспортного средства или станции."
+    }
+  ]
+}
