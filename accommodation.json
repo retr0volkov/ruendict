@@ -1,0 +1,47 @@
+{
+  "category": "Жилье",
+  "phrases": [
+    {
+      "russian": "У меня забронирован номер.",
+      "english": "I have a room reservation.",
+      "transcription": "Ай хэв э рум резервэйшн.",
+      "usage": "Сообщение на ресепшене о бронировании."
+    },
+    {
+      "russian": "До какого времени нужно освободить номер?",
+      "english": "What is the check-out time?",
+      "transcription": "Ват из зэ чек-аут тайм?",
+      "usage": "Уточнение времени выезда из отеля."
+    },
+    {
+      "russian": "В номере нет горячей воды.",
+      "english": "There's no hot water in the room.",
+      "transcription": "Зэрс ноу хот вотер ин зэ рум.",
+      "usage": "Жалоба на отсутствие горячей воды."
+    },
+    {
+      "russian": "Можно попросить дополнительное полотенце?",
+      "english": "Could I have an extra towel?",
+      "transcription": "Куд ай хэв эн экстра тауэл?",
+      "usage": "Запрос дополнительных принадлежностей."
+    },
+    {
+      "russian": "Где находится завтрак?",
+      "english": "Where is breakfast served?",
+      "transcription": "Вэр из брэкфаст сервд?",
+      "usage": "Поиск места, где подают завтрак."
+    },
+    {
+      "russian": "Wi-Fi пароль?",
+      "english": "What is the Wi-Fi password?",
+      "transcription": "Ват из зэ вай-фай пассворд?",
+      "usage": "Запрос пароля от интернета."
+    },
+    {
+      "russian": "Мне нужен утюг.",
+      "english": "I need an iron.",
+      "transcription": "Ай нид эн айэрн.",
+      "usage": "Запрос утюга в номер."
+    }
+  ]
+}
