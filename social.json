@@ -11,13 +11,13 @@
       "russian": "Откуда вы?",
       "english": "Where are you from?",
       "transcription": "Вэр ар ю фром?",
-      "usage": "Вопрос о происхождении человека."
+      "usage": "Вопрос о происхождении."
     },
     {
       "russian": "Вы говорите по-русски?",
       "english": "Do you speak Russian?",
       "transcription": "Ду ю спик рашн?",
-      "usage": "Уточнение языковых возможностей собеседника."
+      "usage": "Уточнение языковых возможностей."
     },
     {
       "russian": "Можно с вами сфотографироваться?",
@@ -26,22 +26,40 @@
       "usage": "Просьба о совместном фото."
     },
     {
-      "russian": "Что вы можете посоветовать посмотреть в этом городе?",
-      "english": "What would you recommend to see in this city?",
-      "transcription": "Ват вуд ю рэкомэнд ту си ин дис сити?",
-      "usage": "Вопрос о рекомендациях мест для посещения."
+      "russian": "Что посоветуете посмотреть?",
+      "english": "What would you recommend to see?",
+      "transcription": "Ват вуд ю рэкомэнд ту си?",
+      "usage": "Вопрос о рекомендациях."
     },
     {
       "russian": "Давайте поужинаем вместе.",
       "english": "Let's have dinner together.",
       "transcription": "Лэтс хэв динэ тугэзэр.",
-      "usage": "Приглашение на совместный ужин."
+      "usage": "Приглашение на ужин."
     },
     {
       "russian": "Можно ваш номер телефона?",
       "english": "Can I have your phone number?",
       "transcription": "Кэн ай хэв ёр фон намбер?",
-      "usage": "Просьба о контактах для дальнейшего общения."
+      "usage": "Просьба о контактах."
+    },
+    {
+      "russian": "Чем вы занимаетесь?",
+      "english": "What do you do?",
+      "transcription": "Ват ду ю ду?",
+      "usage": "Вопрос о роде занятий."
+    },
+    {
+      "russian": "Как вам здесь нравится?",
+      "english": "How do you like it here?",
+      "transcription": "Хау ду ю лайк ит хиэр?",
+      "usage": "Вопрос о впечатлениях."
+    },
+    {
+      "russian": "Давайте встретимся завтра.",
+      "english": "Let's meet tomorrow.",
+      "transcription": "Лэтс мит туморроу.",
+      "usage": "Предложение о встрече."
     }
   ]
 }
