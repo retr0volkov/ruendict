@@ -11,19 +11,19 @@
       "russian": "Где примерочная?",
       "english": "Where are the fitting rooms?",
       "transcription": "Вэр ар зэ фитинг румс?",
-      "usage": "Поиск места для примерки одежды."
+      "usage": "Поиск места для примерки."
     },
     {
       "russian": "У вас есть размер побольше?",
       "english": "Do you have this in a larger size?",
       "transcription": "Ду ю хэв дис ин э ларджер сайз?",
-      "usage": "Запрос о наличии большего размера одежды."
+      "usage": "Запрос большего размера."
     },
     {
       "russian": "Я бы хотел вернуть это.",
       "english": "I'd like to return this.",
       "transcription": "Айд лайк ту ритёрн дис.",
-      "usage": "Заявление о возврате товара."
+      "usage": "Заявление о возврате."
     },
     {
       "russian": "Принимаете ли вы кредитные карты?",
@@ -35,13 +35,31 @@
       "russian": "Где касса?",
       "english": "Where is the checkout?",
       "transcription": "Вэр из зэ чек-аут?",
-      "usage": "Поиск места для оплаты покупок."
+      "usage": "Поиск места оплаты."
     },
     {
       "russian": "Это последняя цена?",
       "english": "Is this the final price?",
       "transcription": "Из дис зэ файнал прайс?",
-      "usage": "Вопрос о возможности торга или скидки."
+      "usage": "Вопрос о скидке."
+    },
+    {
+      "russian": "У вас есть скидки?",
+      "english": "Do you have any discounts?",
+      "transcription": "Ду ю хэв эни дискаунтс?",
+      "usage": "Запрос о скидках."
+    },
+    {
+      "russian": "Можно примерить?",
+      "english": "Can I try this on?",
+      "transcription": "Кэн ай трай дис он?",
+      "usage": "Просьба о примерке."
+    },
+    {
+      "russian": "Где отдел электроники?",
+      "english": "Where is the electronics department?",
+      "transcription": "Вэр из зэ илектроникс дипартмент?",
+      "usage": "Поиск определенного отдела."
     }
   ]
 }
