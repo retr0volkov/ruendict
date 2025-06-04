@@ -11,6 +11,22 @@
     {
       "name": "Путешествия",
       "filename": "travel.json"
+    },
+    {
+      "name": "Транспорт",
+      "filename": "transport.json"
+    },
+    {
+      "name": "Магазины",
+      "filename": "shopping.json"
+    },
+    {
+      "name": "Жилье",
+      "filename": "accommodation.json"
+    },
+    {
+      "name": "Знакомства",
+      "filename": "social.json"
     }
   ]
 }
