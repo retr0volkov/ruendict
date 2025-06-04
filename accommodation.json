@@ -5,19 +5,19 @@
       "russian": "У меня забронирован номер.",
       "english": "I have a room reservation.",
       "transcription": "Ай хэв э рум резервэйшн.",
-      "usage": "Сообщение на ресепшене о бронировании."
+      "usage": "Сообщение на ресепшене."
     },
     {
       "russian": "До какого времени нужно освободить номер?",
       "english": "What is the check-out time?",
       "transcription": "Ват из зэ чек-аут тайм?",
-      "usage": "Уточнение времени выезда из отеля."
+      "usage": "Уточнение времени выезда."
     },
     {
       "russian": "В номере нет горячей воды.",
       "english": "There's no hot water in the room.",
       "transcription": "Зэрс ноу хот вотер ин зэ рум.",
-      "usage": "Жалоба на отсутствие горячей воды."
+      "usage": "Жалоба на отсутствие воды."
     },
     {
       "russian": "Можно попросить дополнительное полотенце?",
@@ -29,7 +29,7 @@
       "russian": "Где находится завтрак?",
       "english": "Where is breakfast served?",
       "transcription": "Вэр из брэкфаст сервд?",
-      "usage": "Поиск места, где подают завтрак."
+      "usage": "Поиск места завтрака."
     },
     {
       "russian": "Wi-Fi пароль?",
@@ -41,7 +41,25 @@
       "russian": "Мне нужен утюг.",
       "english": "I need an iron.",
       "transcription": "Ай нид эн айэрн.",
-      "usage": "Запрос утюга в номер."
+      "usage": "Запрос утюга."
+    },
+    {
+      "russian": "Кондиционер не работает.",
+      "english": "The air conditioning isn't working.",
+      "transcription": "Зэ ээр кондишенинг изнт вёркинг.",
+      "usage": "Жалоба на неисправность."
+    },
+    {
+      "russian": "Можно продлить номер?",
+      "english": "Can I extend my stay?",
+      "transcription": "Кэн ай экстэнд май стэй?",
+      "usage": "Запрос о продлении проживания."
+    },
+    {
+      "russian": "Где ближайший супермаркет?",
+      "english": "Where is the nearest supermarket?",
+      "transcription": "Вэр из зэ ниэрэст супермаркет?",
+      "usage": "Поиск магазина."
     }
   ]
 }
