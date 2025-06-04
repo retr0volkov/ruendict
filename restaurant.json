@@ -5,51 +5,43 @@
       "russian": "Можно мне меню, пожалуйста?",
       "english": "Can I have a menu, please?",
       "transcription": "Кэн ай хэв э мэнью, плиз?",
-      "usage": "Используйте эту фразу, чтобы попросить меню у официанта.",
-      "examples": [
-        "Excuse me, can I have a menu, please?",
-        "Could you bring us the menu, please?"
-      ]
+      "usage": "Используйте эту фразу, чтобы попросить меню у официанта."
     },
     {
       "russian": "Я хотел бы заказать...",
       "english": "I would like to order...",
       "transcription": "Ай вуд лайк ту ордэр...",
-      "usage": "Начало фразы для заказа блюд. После многоточия укажите название блюда.",
-      "examples": [
-        "I would like to order the salmon with vegetables.",
-        "We would like to order two soups and a salad."
-      ]
+      "usage": "Начало фразы для заказа блюд. После многоточия укажите название блюда."
     },
     {
       "russian": "Принесите счет, пожалуйста.",
       "english": "Could we have the bill, please?",
       "transcription": "Куд ви хэв зэ бил, плиз?",
-      "usage": "Вежливая просьба принести счет после окончания трапезы.",
-      "examples": [
-        "Excuse me, could we have the bill when you have a moment?",
-        "Check, please!"
-      ]
+      "usage": "Вежливая просьба принести счет после окончания трапезы."
     },
     {
       "russian": "Это блюдо содержит орехи?",
       "english": "Does this dish contain nuts?",
       "transcription": "Датс дис диш контэйн натс?",
-      "usage": "Важно спрашивать при аллергии на определенные продукты.",
-      "examples": [
-        "I'm allergic to peanuts. Does this dish contain any nuts?",
-        "Could you tell me if this dessert has nuts in it?"
-      ]
+      "usage": "Важно спрашивать при аллергии на определенные продукты."
     },
     {
       "russian": "Можно поменять этот гарнир?",
       "english": "Can I substitute this side dish?",
       "transcription": "Кэн ай сабститьют дис сай диш?",
-      "usage": "Просьба заменить один гарнир на другой.",
-      "examples": [
-        "Can I substitute the fries for a salad?",
-        "Would it be possible to change the mashed potatoes for vegetables?"
-      ]
+      "usage": "Просьба заменить один гарнир на другой."
+    },
+    {
+      "russian": "Вода без газа, пожалуйста.",
+      "english": "Still water, please.",
+      "transcription": "Стил вотер, плиз.",
+      "usage": "Заказ негазированной воды."
+    },
+    {
+      "russian": "Это слишком острое?",
+      "english": "Is this very spicy?",
+      "transcription": "Из дис вэри спайси?",
+      "usage": "Уточнение остроты блюда перед заказом."
     }
   ]
 }
