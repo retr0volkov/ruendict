@@ -1,0 +1,47 @@
+{
+  "category": "Магазины",
+  "phrases": [
+    {
+      "russian": "Сколько это стоит?",
+      "english": "How much is this?",
+      "transcription": "Хау мач из дис?",
+      "usage": "Вопрос о цене товара."
+    },
+    {
+      "russian": "Где примерочная?",
+      "english": "Where are the fitting rooms?",
+      "transcription": "Вэр ар зэ фитинг румс?",
+      "usage": "Поиск места для примерки одежды."
+    },
+    {
+      "russian": "У вас есть размер побольше?",
+      "english": "Do you have this in a larger size?",
+      "transcription": "Ду ю хэв дис ин э ларджер сайз?",
+      "usage": "Запрос о наличии большего размера одежды."
+    },
+    {
+      "russian": "Я бы хотел вернуть это.",
+      "english": "I'd like to return this.",
+      "transcription": "Айд лайк ту ритёрн дис.",
+      "usage": "Заявление о возврате товара."
+    },
+    {
+      "russian": "Принимаете ли вы кредитные карты?",
+      "english": "Do you accept credit cards?",
+      "transcription": "Ду ю эксэпт кредит кардс?",
+      "usage": "Уточнение способов оплаты."
+    },
+    {
+      "russian": "Где касса?",
+      "english": "Where is the checkout?",
+      "transcription": "Вэр из зэ чек-аут?",
+      "usage": "Поиск места для оплаты покупок."
+    },
+    {
+      "russian": "Это последняя цена?",
+      "english": "Is this the final price?",
+      "transcription": "Из дис зэ файнал прайс?",
+      "usage": "Вопрос о возможности торга или скидки."
+    }
+  ]
+}
