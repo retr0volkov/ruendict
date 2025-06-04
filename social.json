@@ -1,0 +1,47 @@
+{
+  "category": "Знакомства",
+  "phrases": [
+    {
+      "russian": "Как вас зовут?",
+      "english": "What's your name?",
+      "transcription": "Ватс ёр нэйм?",
+      "usage": "Стандартный вопрос при знакомстве."
+    },
+    {
+      "russian": "Откуда вы?",
+      "english": "Where are you from?",
+      "transcription": "Вэр ар ю фром?",
+      "usage": "Вопрос о происхождении человека."
+    },
+    {
+      "russian": "Вы говорите по-русски?",
+      "english": "Do you speak Russian?",
+      "transcription": "Ду ю спик рашн?",
+      "usage": "Уточнение языковых возможностей собеседника."
+    },
+    {
+      "russian": "Можно с вами сфотографироваться?",
+      "english": "Can I take a photo with you?",
+      "transcription": "Кэн ай тэйк э фото виз ю?",
+      "usage": "Просьба о совместном фото."
+    },
+    {
+      "russian": "Что вы можете посоветовать посмотреть в этом городе?",
+      "english": "What would you recommend to see in this city?",
+      "transcription": "Ват вуд ю рэкомэнд ту си ин дис сити?",
+      "usage": "Вопрос о рекомендациях мест для посещения."
+    },
+    {
+      "russian": "Давайте поужинаем вместе.",
+      "english": "Let's have dinner together.",
+      "transcription": "Лэтс хэв динэ тугэзэр.",
+      "usage": "Приглашение на совместный ужин."
+    },
+    {
+      "russian": "Можно ваш номер телефона?",
+      "english": "Can I have your phone number?",
+      "transcription": "Кэн ай хэв ёр фон намбер?",
+      "usage": "Просьба о контактах для дальнейшего общения."
+    }
+  ]
+}
